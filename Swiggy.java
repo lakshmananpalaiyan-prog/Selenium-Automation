@@ -16,7 +16,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.support.ui.*;
 
-public class SwiggyCityWise {
+public class Swiggy {
 
     public static void main(String[] args) throws Exception {
 
@@ -350,4 +350,5 @@ public class SwiggyCityWise {
         }
     }
 }
+
 
