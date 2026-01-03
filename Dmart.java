@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-public class Dmart_citywise {
+public class Dmart {
 
 	public static void main(String[] args) throws Exception {
 		ChromeOptions options = new ChromeOptions();
@@ -375,4 +375,5 @@ class UOMUtils {
 	}
 
 }
+
 
