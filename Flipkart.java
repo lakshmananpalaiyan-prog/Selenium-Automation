@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class FlipkartCitywise {
+public class Flipkart {
     public static void main(String[] args) throws Exception {
         ChromeOptions options = new ChromeOptions();
         // options.addArguments("--headless=new"); // Uncomment for headless
@@ -277,3 +277,4 @@ public class FlipkartCitywise {
     }
 
 }
+
