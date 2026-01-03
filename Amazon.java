@@ -14,7 +14,7 @@ import java.time.Duration;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 
-public class AmazonCitywise {
+public class Amazon {
 
     private static String lastAppliedPincode = null;
     private static WebDriverWait fastWait;
@@ -182,3 +182,4 @@ public class AmazonCitywise {
     }
 
 }
+
