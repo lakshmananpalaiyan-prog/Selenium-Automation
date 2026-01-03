@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import CommonUtility.BlinkitId;
 
-public class cittybb_FastExecutionUpdatedMultixpath_ben {
+public class Bigbasket{
 
     private static WebDriver driver;
     private static WebDriverWait wait;
@@ -246,4 +246,5 @@ public class cittybb_FastExecutionUpdatedMultixpath_ben {
             if (sheet.getColumnWidth(i) < 6000) sheet.setColumnWidth(i, 8500);
         }
     }
+
 }
