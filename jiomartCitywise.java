@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class CjiomartFastExecution_1 {
+public class jiomartCitywise {
     public static void main(String[] args) throws Exception {
 
         // ULTRA FAST & UNIVERSAL CHROME SETUP (Java 8 to 21)
@@ -197,4 +197,5 @@ public class CjiomartFastExecution_1 {
         Thread.sleep(400);
         driver.findElement(By.xpath("//button[@id='btn_pincode_submit']")).click();
     }
+
 }
