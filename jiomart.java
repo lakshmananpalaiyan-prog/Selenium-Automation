@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class jiomartCitywise {
+public class jiomart {
     public static void main(String[] args) throws Exception {
 
         // ULTRA FAST & UNIVERSAL CHROME SETUP (Java 8 to 21)
@@ -199,3 +199,4 @@ public class jiomartCitywise {
     }
 
 }
+
